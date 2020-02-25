@@ -436,14 +436,7 @@
                                 <version>${project.version}</version>
                             </dependency>
                         </dependencies>
-						<!-- https://mvnrepository.com/artifact/org.easyb/maven-easyb-plugin -->
-<dependency>
-    <groupId>org.easyb</groupId>
-    <artifactId>maven-easyb-plugin</artifactId>
-    <version>1.4</version>
-</dependency>
-
-                    </plugin>
+						</plugin>
                 </plugins>
             </build>
             <reporting>
