@@ -396,6 +396,11 @@
                                 <artifactId>gameoflife-build</artifactId>
                                 <version>${project.version}</version>
                             </dependency>
+							<dependency>
+   <groupId>org.easyb</groupId>
+   <artifactId>maven-easyb-plugin</artifactId>
+   <version>1.4</version>
+</dependency>
                         </dependencies>
                     </plugin>
                 </plugins>
